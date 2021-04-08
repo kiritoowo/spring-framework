@@ -1,0 +1,8 @@
+com/ljm/pojo/Person.java
+ com.ljm.pojo.Person
+com/ljm/pojo/PersonTest.java
+ com.ljm.pojo.PersonTest
+com/ljm/config/TestConfig.java
+ com.ljm.config.TestConfig
+com/ljm/main/Main.java
+ com.ljm.main.Main
