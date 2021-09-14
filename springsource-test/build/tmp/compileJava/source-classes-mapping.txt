@@ -1,8 +1,12 @@
-com/ljm/pojo/Person.java
- com.ljm.pojo.Person
 com/ljm/pojo/PersonTest.java
  com.ljm.pojo.PersonTest
-com/ljm/config/TestConfig.java
- com.ljm.config.TestConfig
+com/ljm/pojo/Person.java
+ com.ljm.pojo.Person
 com/ljm/main/Main.java
  com.ljm.main.Main
+com/ljm/config/TestConfig.java
+ com.ljm.config.TestConfig
+com/ljm/test/Test1BeanDefinitionRegistryPostProcessor.java
+ com.ljm.test.Test1BeanDefinitionRegistryPostProcessor
+com/ljm/test/Test1BeanFactoryPostProcessor.java
+ com.ljm.test.Test1BeanFactoryPostProcessor

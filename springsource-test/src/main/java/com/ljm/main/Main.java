@@ -13,10 +13,6 @@ public class Main {
 	public static void main(String[] args) {
 //		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("beans.xml");
 		ApplicationContext applicationContext = new AnnotationConfigApplicationContext(TestConfig.class);
-		String[] names = applicationContext.getBeanDefinitionNames();
-		for (String name : names) {
-			System.out.println(name);
-		}
 
 	}
 }
